@@ -1,1 +1,1 @@
-conflict 2 is final
+COnflict 2 is resolved by our team first
